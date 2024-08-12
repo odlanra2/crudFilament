@@ -8,3 +8,7 @@ Pasos para ejecutar el proyecto
 6) php artisan migrate
 7) php artisan serve
 
+8) ir a http://localhost:8000/admin/login
+9) Boton  sign up for an account
+10) registrarce 
+
