@@ -10,5 +10,5 @@ Pasos para ejecutar el proyecto
 
 8) ir a http://localhost:8000/admin/login
 9) Boton  sign up for an account
-10) registrarce 
+10) registrarse 
 
